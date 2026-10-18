@@ -1,4 +1,4 @@
 # madarsaaziziatahfeezulquran
 madarsaazizia project
 <br>
-Author - Taha Asjad
+Author - Taha Asjad (Mgit)
